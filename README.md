@@ -7,6 +7,7 @@ The repo will have notes, projects, documentation, and resources that I've used 
 ## What I've been doing
 
 #### May 28, 2020
+- Added notes for the reading today
 - Started reading 8 fallacies of distributed computing 
 
 #### May 27, 2020
