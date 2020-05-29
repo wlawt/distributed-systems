@@ -89,3 +89,8 @@
 - Everytime data is called in production level it costs a lot (both time and resources) for the host and user, we want to strive to minimize the cost as much as possible (think if we're serving for like 1 billion users)
 - Resource costs: servers/routers/security/maintaince etc
 -TL;DR -> make your network effective and efficient
+
+#### 8 | Create a homogeneous network
+- Should be a standard global practice
+- Network isn't homogeneous at application level (users can have different versions installed) 
+- Use standards that are widely accepted (ex. XML) 
