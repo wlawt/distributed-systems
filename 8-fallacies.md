@@ -80,3 +80,7 @@
     <li>messages can know the path it needs to travel in advance</li>
   </ul>
 </ul>
+
+#### 6 | Only have 1 admin
+- Very important especially when you start collaborating with 3rd parties and need to manage permissions 
+- Setting the roles clearly is important -> for testing/debugging/diagnosing problems
