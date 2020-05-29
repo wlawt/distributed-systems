@@ -66,3 +66,17 @@
     <li>Application (production level)</li>
   </ul>
 </ul>
+
+#### 5 | Keep the topology consistent
+- Do NOT depend on specific endpoitns/routes as those can always change
+- Provide location transparency (ex. using ESB)
+- Provide discovery services (ex. active directory)
+- DNS names > IP addresses 
+
+<ul>
+  <li>If topology is consistent</li>
+  <ul>
+    <li>can reduce resource expenses (don't have to change things everytime the topology changes) </li>
+    <li>messages can know the path it needs to travel in advance</li>
+  </ul>
+</ul>
