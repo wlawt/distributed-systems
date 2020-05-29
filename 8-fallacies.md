@@ -40,6 +40,7 @@
 
 - AJAX is a good way to call data in the background 
 - IF AJAX is too SLOW -> it could make the app unresponsive
+
 <ul>
   <li>Good tools for measuring latency</li>
   <ul>
@@ -52,3 +53,16 @@
 - Need to think of production situation where bandiwdth isn't infinite
 - Remember to consider how much data is being sent over each call
 - When developing -> stimulate production environment as much as possible
+
+#### 4 | Create a secure network
+- Need to perform threat modeling to evaluate security risks + severity
+- Understand the tradeoff between costs/risks/probability of happening
+
+<ul>
+  <li>Security affects the following levels</li>
+  <ul>
+    <li>Network</li>
+    <li>Infrastructure</li>
+    <li>Application (production level)</li>
+  </ul>
+</ul>
