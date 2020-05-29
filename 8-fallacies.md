@@ -26,3 +26,22 @@
     <li>order messages accordingly</li>
   </ul>
 </ul>
+
+#### 2 | A network that has zero latency
+- Latency becomes an issue when you move to WAN (but not LAN) 
+- Distributed objects can be expensive to call
+<ul>
+  <li>When making calls</li>
+  <ul>
+    <li>Minimize # of calls</li>
+    <li>Move as much data in each of the calls</li>   
+  </ul>
+</ul>
+- AJAX is a good way to call data in the background 
+- IF AJAX is too SLOW -> it could make the app unresponsive
+<ul>
+  <li>Good tools for measuring latency</li>
+  <ul>
+    <li>Opnet Modeler</li>
+  </ul>
+</ul>
