@@ -37,6 +37,7 @@
     <li>Move as much data in each of the calls</li>   
   </ul>
 </ul>
+
 - AJAX is a good way to call data in the background 
 - IF AJAX is too SLOW -> it could make the app unresponsive
 <ul>
@@ -45,3 +46,9 @@
     <li>Opnet Modeler</li>
   </ul>
 </ul>
+
+#### 3 | Strive for infinite bandwidth
+- Need to remember to minimize the size of info before send
+- Need to think of production situation where bandiwdth isn't infinite
+- Remember to consider how much data is being sent over each call
+- When developing -> stimulate production environment as much as possible
