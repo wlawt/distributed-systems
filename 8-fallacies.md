@@ -84,3 +84,8 @@
 #### 6 | Only have 1 admin
 - Very important especially when you start collaborating with 3rd parties and need to manage permissions 
 - Setting the roles clearly is important -> for testing/debugging/diagnosing problems
+
+#### 7 | Utilize cost-effective solutions that make it almost "free" 
+- Everytime data is called in production level it costs a lot (both time and resources) for the host and user, we want to strive to minimize the cost as much as possible (think if we're serving for like 1 billion users)
+- Resource costs: servers/routers/security/maintaince etc
+-TL;DR -> make your network effective and efficient
