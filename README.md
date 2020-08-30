@@ -4,6 +4,9 @@ This repo will document the learning journey where I'll be exploring distributed
 <br/>
 The repo will have notes, projects, documentation, and resources that I've used to walk through my thought process and how I've been learning.
 
+## Good resources
+- [Azure Architecture - Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+
 ## What I've been doing
 
 #### May 28, 2020
