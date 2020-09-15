@@ -31,6 +31,7 @@ At its basic, we can have 2 functions:
 5. Clear the cache
 
 ### System Workflow
+![System Workflow](https://github.com/wlawt/distributed-systems/blob/master/img/VendingMachine.jpg)
 
 ### Caching
 - Overall, this is simple, but it will keep track of the `current_payment` and reset when the transaction is complete (i.e. returns True). To ensure a product has been sent or coins have been returned, we can compare the boolean of the `get_product` returns and if `current_payment` is reset with default values. If not, we can issue back the coins inserted. 
