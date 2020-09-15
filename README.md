@@ -9,6 +9,9 @@ The repo will have notes, projects, documentation, and resources that I've used 
 
 ## What I've been doing
 
+#### Sept. 14, 2020
+- Did vending machine problem
+
 #### May 28, 2020
 - Added notes for the reading today
 - Started reading 8 fallacies of distributed computing 
